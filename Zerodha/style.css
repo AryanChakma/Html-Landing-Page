@@ -1,0 +1,22 @@
+.main{
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px #eee;
+}
+div{
+    display: flex;
+}
+.sub{
+    padding: 20px;
+    color: #666;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+}
+.l-mid{
+    display: flex;
+    justify-content: center;
+}
